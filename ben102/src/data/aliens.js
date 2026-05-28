@@ -19,6 +19,7 @@ import bigChillImg2 from '../assets/alienimages/bigchill-transform.png'
 import humungousaurImg1 from '../assets/alienimages/humungousaur.png'
 import humungousaurImg2 from '../assets/alienimages/humungousaur-transform.png'
 
+
 const aliens = [
   {
     id: 1,
